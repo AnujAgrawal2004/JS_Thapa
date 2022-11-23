@@ -321,8 +321,4 @@ const findPrice = prices.find((currVal)=>
 // const findIdx= prices.findIndex((currval)=>{
 //   return currVal>300;
 // })
-console.log("HI");
-console.log("HI");
-console.log("HI");
-console.log("HI");
-console.log("HI");
+
