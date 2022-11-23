@@ -1,0 +1,17 @@
+1. Difference between null and undefined?
+Ans: when we assign null value to a name then it is null and when we just create the name but not give any value to that then it is undefined.
+2. What is NaN?
+3. What is difference between == and ===?
+4. what is truthy and falsy statement in js?
+Ans: We have total 5 falsy value in js
+0,"",undefined,null,NaN
+5. Why to use functions?
+Ans: Simply code reusability.
+6. let v/s const v/s var
+
+
+
+
+
+Things to remember:
+1) names having null value have data type as object.
